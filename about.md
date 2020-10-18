@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: People 
 permalink: /about/
 main_nav: true
 ---
 
 <h2 class="text-center">
-  People
+  Robotics and Perception 
 </h2>
 
 <div id="people">
@@ -17,21 +17,9 @@ main_nav: true
     </a>
   </div>
   <div class="inline-block">
-    <a href="https://www.linkedin.com/in/selim-naji-706094171/?originalSubdomain=ch">
-    <img class="circular--square" src="{{site.baseurl}}/assets/people/selim.jpg" style="width: 200px">
-    <p style="text-align:center"><strong>Selim Naji</strong></p>
-    </a>
-  </div>
-  <div class="inline-block">
     <a href="https://kelia.github.io/">
     <img class="circular--square" src="{{site.baseurl}}/assets/people/elia.png" style="width: 200px">
     <p style="text-align:center"><strong>Elia Kaufmann</strong></p>
-    </a>
-  </div>
-  <div class="inline-block">
-    <a href="https://antonilo.github.io/">
-    <img class="circular--square" src="{{site.baseurl}}/assets/people/antonio.png" style="width: 200px">
-    <p style="text-align:center"><strong>Antonio Loquercio</strong></p>
     </a>
   </div>
   <div class="inline-block">
@@ -45,6 +33,31 @@ main_nav: true
 <hr>
 
 <h2 class="text-center">
+  SONY 
+</h2>
+
+<div id="people">
+  <div class="inline-block">
+    <a href="https://www.linkedin.com/in/florian-fuchs-b16b98a9/">
+    <img class="circular--square" src="{{site.baseurl}}/assets/people/florian.jpeg" style="width: 200px">
+    <p style="text-align:center"><strong>Florian Fuchs</strong></p>
+    </a>
+  </div>
+  <div class="inline-block">
+    <a href="https://www.linkedin.com/in/haochih-lin/">
+    <img class="circular--square" src="{{site.baseurl}}/assets/people/haochih.jpeg" style="width: 200px">
+    <p style="text-align:center"><strong>HaoChih Lin</strong></p>
+    </a>
+  </div>
+  <div class="inline-block">
+    <a href="https://www.linkedin.com/in/peter-d%C3%BCrr-8271976b/l">
+    <img class="circular--square" src="{{site.baseurl}}/assets/people/peter.jpeg" style="width: 200px">
+    <p style="text-align:center"><strong>Peter Dürr</strong></p>
+    </a>
+  </div>
+</div>
+
+<!-- <h2 class="text-center">
   Robotics and Perception Group 
 </h2>
 
@@ -58,4 +71,4 @@ vision that will benefit all of humanity. Our key interest is to develop autonom
 that can navigate all by themselves using only onboard cameras and computation, 
 without relying on external infrastructure, such as GPS or position tracking systems, 
 nor off-board computing. Our interests encompass predonimantly micro drones because 
-they are more challenging and offer more research opportunities than ground robots.
+they are more challenging and offer more research opportunities than ground robots. -->

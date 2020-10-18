@@ -9,8 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Fast and Furious
-subtitle: Autonomous Driving and Overtaking in Gran Turismo Sport 
+title: Fast and Furious I
+subtitle: Super-Human Performance in Gran Turismo Sport Using Deep Reinforcement Learning
+# 
+title1: Fast and Furious II
+subtitle1: Autonomous Overtaking in Gran Turismo Sport Using Curriculum Reinforcement Learning 
+# 
 email: song@ifi.uzh.ch 
 name: Robotics and Perception Group 
 description: >
@@ -20,7 +24,8 @@ description: >
 # root of your server.
 baseurl: "/gts" # the subpath of your site, e.g. /blog/
 url: "https://uzh-rpg.github.io" # the base hostname & protocol for your site
-cover: "/assets/flightmare.png"
+cover: "/assets/racing.gif"
+cover1: "/assets/overtaking.gif"
 logo: "/assets/logo.png"
 
 # Build settings
