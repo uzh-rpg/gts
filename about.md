@@ -50,7 +50,7 @@ main_nav: true
     </a>
   </div>
   <div class="inline-block">
-    <a href="https://www.linkedin.com/in/peter-d%C3%BCrr-8271976b/l">
+    <a href="https://www.linkedin.com/in/peter-dürr-8271976b/">
     <img class="circular--square" src="{{site.baseurl}}/assets/people/peter.jpeg" style="width: 200px">
     <p style="text-align:center"><strong>Peter Dürr</strong></p>
     </a>
