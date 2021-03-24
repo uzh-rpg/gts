@@ -2,7 +2,7 @@
 layout: page
 title: People 
 permalink: /about/
-main_nav: true
+main_nav: false 
 ---
 
 <h2 class="text-center">
